@@ -8,3 +8,7 @@
 ```vim
   Plug 'preservim/nerdtree'
 ```
+
+## command
+
+- `m`: menu

@@ -1,0 +1,15 @@
+# Copilot
+
+- repos: https://github.com/github/copilot.vim
+
+## key map
+
+- `<M-]>` Cycle to the next suggestion, if one is available.
+
+- `<M-[>` Cycle to the previous suggestion.
+
+- `<M-\>` Explicitly request a suggestion, even if Copilot
+
+## manual
+
+`:help copilot`
