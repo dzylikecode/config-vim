@@ -2,6 +2,10 @@
 
 - repos: https://github.com/github/copilot.vim
 
+## config
+
+`:Copilot setup`
+
 ## key map
 
 - `<M-]>` Cycle to the next suggestion, if one is available.
