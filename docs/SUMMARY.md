@@ -1,4 +1,4 @@
 - [Plugin](Plugin.md)
 - [Coc](Coc.md)
-- [NERDTree](NERDTree.md)
+- [NERDTree](NERDtree.md)
 - [Tabular](Tabular.md)
