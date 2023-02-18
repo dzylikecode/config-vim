@@ -31,5 +31,3 @@ https://github.com/gvolpe/vim-setup
 https://mmhaskell.com/blog/2022/9/29/using-haskell-in-vim-the-basics
 
 https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f
-
-https://www.dwarmstrong.org/neovim/
