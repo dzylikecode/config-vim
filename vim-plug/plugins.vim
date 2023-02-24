@@ -5,4 +5,3 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'github/copilot.vim'
   Plug 'godlygeek/tabular'
 call plug#end()
-
